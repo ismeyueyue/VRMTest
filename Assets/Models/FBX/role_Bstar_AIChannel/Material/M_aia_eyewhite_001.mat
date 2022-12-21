@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_aia_eyewhite_001
+  m_Shader: {fileID: 4800000, guid: f51bcd6910be936499651974e2398f6a, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _DITHERSET_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 8c506f6b2cb0c7847bf300ff8caa9890, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FaceHeight:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LUTMap:
+        m_Texture: {fileID: 2800000, guid: 841a20a43afe7ef4caebfb26ee149d95, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Clip: 0
+    - _Contrast: 1.2
+    - _DistanceToAlpha: 1
+    - _DitherEnabled: 0
+    - _DitherSet: 1
+    - _IsFace: 1
+    - _MaskRimIntensity: 0.094
+    - _NormalScale: 0
+    - _OutLineThickness: 0.2
+    - _RimRange: 0.256
+    - _RimSmooth: 0
+    - _RimSmoothness: 0
+    - _RimStrength: 0.428
+    - _Saturation: 1
+    - _ShadowEdgeMax: 0.15
+    - _ShadowEdgeMin: 0.5
+    - _UseColor: 0
+    - _test: 0
+    m_Colors:
+    - _BaseColor: {r: 0.85, g: 0.799505, b: 0.799505, a: 1}
+    - _OutLineColor: {r: 0.3773585, g: 0.3773585, b: 0.3773585, a: 1}
+    - _ProjColor: {r: 0.69803923, g: 0.6435922, b: 0.6435922, a: 1}
+    - _RimColor: {r: 0.38679248, g: 0.38496798, b: 0.38496798, a: 1}
+    - _ShadowColor: {r: 0.78039217, g: 0.75307846, b: 0.75307846, a: 1}
+  m_BuildTextureStacks: []
